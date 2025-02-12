@@ -1,3 +1,12 @@
+---
 title: ALO TT Website
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: The main website for the ALO Topical Team.
 url: https://alo-topical-team.github.io/ALO-TT-Website.github.io/
